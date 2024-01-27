@@ -1,2 +1,2 @@
 # sammykori-portfolio
-This is my portfolio
+This is my portfolio about my professional career.
